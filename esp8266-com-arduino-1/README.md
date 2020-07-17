@@ -13,3 +13,5 @@ Após observar as redes Wi-Fi em alcance do módulo ESP8266, envie o comando AT+
 Agora que o módulo está conectado à sua rede Wi-Fi, é possível obter o endereço de IP do módulo com o comando AT+CIFSR.
 
 Com estes comandos é possível testar a funcionalidade do módulo ESP8266, assim como alguns de seus recursos.
+
+* Configure o monitor para a opção "Ambos NL & RC" ("Both NL & RC") e altere a velocidade de comunicação para 9600 bps.
